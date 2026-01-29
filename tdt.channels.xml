@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<!--
+10/01/2026
+Este archivo se guarda en /etc/epgimport
+El channel id= que va entrecomillado debe coincidir con el que se encuentra en el archivo xml que se descarga con el plugin EPG-Importer
+el código debe coincidir con el código que hay en el archivo userbouquet.xxxx.tv
+-->
+<channel id="LA 1 HD">1:0:19:216:3F4:22D4:EEEE0000:0:0:0</channel>
+<channel id="La 2 HD">1:0:19:21A:3F4:22D4:EEEE0000:0:0:0</channel>
+<channel id="ANTENA 3 HD">1:0:19:95:F:22D4:EEEE0000:0:0:0</channel>
+<channel id="CUATRO HD">1:0:19:BF:10:22D4:EEEE0000:0:0:0</channel>
+<channel id="TELECINCO HD">1:0:19:BE:10:22D4:EEEE0000:0:0:0</channel>
+<channel id="LA SEXTA HD">1:0:19:97:F:22D4:EEEE0000:0:0:0</channel>
+<channel id="Telemadrid">1:0:19:1A9:1838:22D4:EEEE0000:0:0:0</channel>
+<channel id="LaOtra">1:0:19:3B88:1838:22D4:EEEE0000:0:0:0</channel>
+<channel id="24h HD">1:0:19:215:3F4:22D4:EEEE0000:0:0:0</channel>
+<channel id="Atreseries HD">1:0:19:65:12:22D4:EEEE0000:0:0:0</channel>
+<channel id="DIVINITY">1:0:19:BD:10:22D4:EEEE0000:0:0:0</channel>
+<channel id="DMAX">1:0:19:115:E:22D4:EEEE0000:0:0:0</channel>
+<channel id="ENERGY">1:0:19:C0:11:22D4:EEEE0000:0:0:0</channel>
+<channel id="FDF">1:0:19:BC:10:22D4:EEEE0000:0:0:0</channel>
+<channel id="Mega">1:0:19:9B:11:22D4:EEEE0000:0:0:0</channel>
+<channel id="Neox HD">1:0:19:99:F:22D4:EEEE0000:0:0:0</channel>
+<channel id="Nova HD">1:0:19:9A:F:22D4:EEEE0000:0:0:0</channel>
+<channel id="DKISS">1:0:19:A029:9C40:22D4:EEEE0000:0:0:0</channel>
+<channel id="BOM">1:0:19:1A7:1838:22D4:EEEE0000:0:0:0</channel>
+<channel id="SQUIRREL">1:0:19:CA:E:22D4:EEEE0000:0:0:0</channel>
+<channel id="BOING">1:0:19:C1:11:22D4:EEEE0000:0:0:0</channel>
+<channel id="Clan HD">1:0:19:9C41:9C40:22D4:EEEE0000:0:0:0</channel>
+<channel id="GOL PLAY">1:0:19:116:E:22D4:EEEE0000:0:0:0</channel>
+<channel id="Real Madrid TV HD">1:0:19:67:12:22D4:EEEE0000:0:0:0</channel>
+<channel id="Teledeporte HD">1:0:19:212:3F4:22D4:EEEE0000:0:0:0</channel>
+</channels>
