@@ -1,4 +1,4 @@
-<b>EPGImport_TDT_Madrid</b>
+**EPGImport_TDT_Madrid**
 
 Ficheros para descargar el EPG de los canales TDT de Madrid<br>
 Incluir los ficheros tdt.channels y tdt.sources en la carpeta /etc/epgimport del decodificador enigma2<br>
